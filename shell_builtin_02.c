@@ -7,6 +7,7 @@
  *@info: struct for potential arguments
  *Return: 0 (Success)
  */
+
 int _myhelp(info_t *info)
 {
 	char **arg_arr;
