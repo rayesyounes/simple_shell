@@ -8,6 +8,7 @@
  * @src: source
  * Return: pointer to dest
  */
+
 char *str_copy(char *dest, char *src)
 {
 	int i = 0;
