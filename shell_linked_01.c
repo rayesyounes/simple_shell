@@ -7,6 +7,7 @@
  * @h: pointer 1st node
  * Return: size of list
  */
+
 size_t list_length(const list_t *h)
 {
 	size_t i = 0;
